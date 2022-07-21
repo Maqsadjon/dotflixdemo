@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "L8Sg9niocIn7wes+Q9vKmuap5nPvg8x7VdYqI9emyRI=",
+  "Source": "DotFlixDemo",
+  "BasePath": "_content/DotFlixDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DotFlixDemo\\wwwroot",
+      "Source": "DotFlixDemo",
+      "ContentRoot": "D:\\Projects\\DemoNetFlix\\DotFlixDemo\\DotFlixDemo\\wwwroot\\",
+      "BasePath": "_content/DotFlixDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\DemoNetFlix\\DotFlixDemo\\DotFlixDemo\\wwwroot\\images\\a4e9194f-6f9f-4f72-bae8-b5b0632cbec7.png",
+      "SourceId": "DotFlixDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\DemoNetFlix\\DotFlixDemo\\DotFlixDemo\\wwwroot\\",
+      "BasePath": "_content/DotFlixDemo",
+      "RelativePath": "images/a4e9194f-6f9f-4f72-bae8-b5b0632cbec7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a4e9194f-6f9f-4f72-bae8-b5b0632cbec7.png"
+    },
+    {
+      "Identity": "D:\\Projects\\DemoNetFlix\\DotFlixDemo\\DotFlixDemo\\wwwroot\\images\\bdc4735e-74d6-4f8e-8c5f-c7aa3b22c9e9.jpg",
+      "SourceId": "DotFlixDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\DemoNetFlix\\DotFlixDemo\\DotFlixDemo\\wwwroot\\",
+      "BasePath": "_content/DotFlixDemo",
+      "RelativePath": "images/bdc4735e-74d6-4f8e-8c5f-c7aa3b22c9e9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bdc4735e-74d6-4f8e-8c5f-c7aa3b22c9e9.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\DemoNetFlix\\DotFlixDemo\\DotFlixDemo\\wwwroot\\images\\f5c1cd1e-23dd-4eeb-b573-2d09bf8c0c2d.jpg",
+      "SourceId": "DotFlixDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\DemoNetFlix\\DotFlixDemo\\DotFlixDemo\\wwwroot\\",
+      "BasePath": "_content/DotFlixDemo",
+      "RelativePath": "images/f5c1cd1e-23dd-4eeb-b573-2d09bf8c0c2d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f5c1cd1e-23dd-4eeb-b573-2d09bf8c0c2d.jpg"
+    }
+  ]
+}
